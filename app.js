@@ -23,11 +23,8 @@ class ReactComp extends React.Component {
 let BabelComp = () => {
     return (
         <div>
-            <h1>Hello World</h1>
-            <ul>This is
-                <li>easy</li>
-                <li>fast</li>
-                <li>good</li>
+            <h1>Hell0 Prograd This is SS</h1>
+            <h2> Let's roll and rock </h2>
             </ul>
         </div>
     )
